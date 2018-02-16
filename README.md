@@ -1,0 +1,2 @@
+# getlink
+safelink
